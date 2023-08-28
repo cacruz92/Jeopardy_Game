@@ -1,0 +1,58 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+body{
+  text-align: center;
+  background-color: #115ff4;
+}
+
+#jeopardy {
+  text-align: center;
+  font-size: 12 pt;
+  background-color: #060ce9;
+  color: white;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#jeopardy th, #jeopardy td {
+  border: solid 1px white;
+  width: 10em;
+  height: 4em;
+  padding: 1em;
+}
+
+th{
+  text-transform: uppercase;
+  font-family: Helvetica, sans-serif;
+}
+
+td{
+  font-family: Helvetica, sans-serif;
+}
+
+#newGame {
+  text-align: center;
+  background-color: #28a200;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-bottom: 1em;
+  }
